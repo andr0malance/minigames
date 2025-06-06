@@ -41,11 +41,15 @@
 MiniGames/
 ├── Data/                # Классы для работы с данными
 ├── Forms/               # Все формы приложения
-│   ├── AuthForm.cs      # Форма авторизации
+│   ├── NicknameForm.cs      # Форма авторизации
 │   ├── MainForm.cs      # Главное меню
 │   ├── GameSelectionForm.cs # Выбор игры
-│   ├── RecordForm.cs    # Таблица рекордов
-│   └── Games/           # Формы отдельных игр
+│   ├── RecordForm.cs      #Рекорды отдельных игроков
+│   ├── TanksGameForm      #Форма мини-игры Танчики
+│   ├── SnakeGameForm      #Форма мини-игры Змейка
+│   ├── ArkanoidGameForm     #Форма мини-игры Арканоид
+│   ├── TetrisGameForm       #Форма мини-игры Тетрис
+│   └── RacingGameForm/         #Форма мини-игры гонки
 ├── Models/              # Модели данных
 ├── Properties/          # Ресурсы проекта
 └── Program.cs           # Точка входа
