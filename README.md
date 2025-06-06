@@ -39,23 +39,22 @@
 
 ```
 MiniGames/
-├── Data/                # Классы для работы с данными
+├── DataBaseHelper/        # Классы для работы с данными
 ├── Forms/               # Все формы приложения
 │   ├── NicknameForm.cs      # Форма авторизации
 │   ├── MainForm.cs      # Главное меню
 │   ├── GameSelectionForm.cs # Выбор игры
 │   ├── RecordForm.cs      #Рекорды отдельных игроков
-│   ├── TanksGameForm      #Форма мини-игры Танчики
-│   ├── SnakeGameForm      #Форма мини-игры Змейка
-│   ├── ArkanoidGameForm     #Форма мини-игры Арканоид
-│   ├── TetrisGameForm       #Форма мини-игры Тетрис
-│   └── RacingGameForm/         #Форма мини-игры гонки
-├── Models/              # Модели данных
-├── Properties/          # Ресурсы проекта
+│   ├── TanksGameForm.cs      #Форма мини-игры Танчики
+│   ├── SnakeGameForm.cs     #Форма мини-игры Змейка
+│   ├── ArkanoidGameForm.cs     #Форма мини-игры Арканоид
+│   ├── TetrisGameFor.cs       #Форма мини-игры Тетрис
+│   └── RacingGameForm.cs/         #Форма мини-игры гонки
+├── Properties/          # Ресурсы и музыка проекта
 └── Program.cs           # Точка входа
 ```
 
 Автор:  
-@andr0malance
-Discord для контакта
-@andr0ma1ance
+@andr0malance  
+Discord для контакта  
+andr0ma1ance  
